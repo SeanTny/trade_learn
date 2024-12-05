@@ -1,10 +1,12 @@
 基础关键词：
-描述你的产品和网站相关的，准备几十个几百个！！！！
-shop
-storeapparel
-cloth
-boutiques
-accessories
+    描述产品和网站相关的，准备几十个几百个！！！！
+    shop
+    store
+    apparel
+    cloth
+    boutiques
+    accessories
 
 搜索建议：
+
 
