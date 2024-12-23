@@ -1,0 +1,25 @@
+
+mamp上创建了第一个数据库名称是：wp_ansen，端口是默认的3306
+
+
+网站是：http://localhost/wordpress
+进入后台的方式：http://localhost/wordpress/wp-admin
+
+
+管理员的用户名和密码
+    ansen  ansen
+
+主题：theme就是换装游戏中的角色身体
+模板：template相当于整套衣服
+模块：section衣服的一部分，比如上装，或者下装，腰带，之类的
+页面构建插件：page builder 就是衣柜，大多数主题的页面构建插件用的是“elementor”
+
+
+域名选择：
+    6-14个字符是比较好的状态
+    容易输入和发音
+    避免使用连字符和数字
+
+
+万网购买域名
+siteground.com购买服务器
