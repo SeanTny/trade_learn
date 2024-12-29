@@ -23,3 +23,36 @@ mamp上创建了第一个数据库名称是：wp_ansen，端口是默认的3306
 
 万网购买域名
 siteground.com购买服务器
+
+
+我们的企业邮箱账号：
+    tusen@heymfgcustom.com
+    绑定的SMTP密码：
+    afk47HL8jvLkyqLb
+
+
+我们的业务范围：
+    B2B外贸公司，出口纺织品和精致小商品
+
+
+我的地址就填这个吧
+The Orpheum Theatre, 842 S Broadway, Los Angeles, CA 90014
+
+确定要建的页面：
+    1、Home
+    2、Product/Service
+    3、About
+    4、FAQ
+    5、Resource/Blog
+    6、Contact
+    7、Testimony
+
+    其中347提升网站信任感。
+    125适合做SEO页面。
+    6方便客户迅速反馈给我们。
+
+
+Portfolio 这个功能怎么用？
+还有Post功能？ 就是帖子的功能
+
+Page Post Category 是什么，有什么区别和作用？
