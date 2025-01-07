@@ -52,7 +52,16 @@ The Orpheum Theatre, 842 S Broadway, Los Angeles, CA 90014
     6方便客户迅速反馈给我们。
 
 
-Portfolio 这个功能怎么用？
-还有Post功能？ 就是帖子的功能
+关键词工具推荐
+    uber suggest            https://neilpatel.com/ubersuggest/
+    keywords everywhere     https://keywordseverywhere.com/
+    sem rush                https://www.semrush.com/projects/
+    MOZ                     https://moz.com/
+    Answer The Public       https://answerthepublic.com/
+    z知乎推荐10个关键词工具：https://zhuanlan.zhihu.com/p/481621192
 
-Page Post Category 是什么，有什么区别和作用？
+潜在语义索引关键词：LSI关键词
+    1、使用google搜索时候，搜索框弹出的关联词即是LSI关键词
+    2、为主要关键词提高搜索引擎评估的主题相关性
+    3、使页面能够通过更多形式组合的关键词被发现
+    免费工具： https://lsigraph.com/            https://www.nichelaboratory.com/
