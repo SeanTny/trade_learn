@@ -65,3 +65,20 @@ The Orpheum Theatre, 842 S Broadway, Los Angeles, CA 90014
     2、为主要关键词提高搜索引擎评估的主题相关性
     3、使页面能够通过更多形式组合的关键词被发现
     免费工具： https://lsigraph.com/            https://www.nichelaboratory.com/
+
+
+站点颜色： 传统、稳重、古典
+elementor：
+    #009933   古典绿
+    #CC9900   古典棕
+    #666666   古典灰
+
+
+astra：
+    #415161 标题色
+    #67727D 正文文本
+    #F5F5F5 网站背景、正文背景
+
+
+找到一个 encvato的模板：
+WaveDesign - T Shirt Design & Printing
